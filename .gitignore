@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Elysium Specific
+dontshareconfig.py
+elysium_config.json
+
 # C extensions
 *.so
 
